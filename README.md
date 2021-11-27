@@ -63,10 +63,4 @@ Additional Analysis
 An additional analysis that might be beneficial would be to review the lower star reviews (1 and 2) and compare them vine vs non-vine program. This could help determine if there is a bias for giving and/or not giving lower star rating. 
 
  
-# Summary
-Given there were no 5 star reviews from the vine program, all of the 5 star reviews provided were not paid reviews. Bias of vine members reviews was not present for 5 star reviews. 
-
-- Additional Analysis
-An additional analysis that might be beneficial would be to review the lower star reviews (1 and 2) and compare them vine vs non-vine program. This could help determine if there is a bias for giving and/or not giving lower star rating. 
-
 
