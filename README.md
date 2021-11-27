@@ -12,6 +12,8 @@ The total reviews were 4,864,249
 
  
 We then filtered to reivews with more than 20 votes and then helpful rating greater than or equal to 50%. 
+![steponehelpful](https://user-images.githubusercontent.com/88061345/143719107-0288db75-404e-46d6-99b2-cc77281a1bf8.PNG)
+
 ![helpfulreviews](https://user-images.githubusercontent.com/88061345/143718969-73fb89dd-96be-4aa4-960c-6be0dbdb5381.PNG)
 
  ![totalhelpful](https://user-images.githubusercontent.com/88061345/143718977-deb25845-b603-4104-ac84-bb8d4c930de7.PNG)
