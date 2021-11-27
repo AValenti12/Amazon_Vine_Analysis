@@ -63,7 +63,7 @@ The percent of Vine program 5 star reviews was 34.08%
 ![percentpaidvineprogram](https://user-images.githubusercontent.com/88061345/143719023-e08165f5-9c59-446c-a152-287de0a0b97f.PNG)
 
 
-The perecet of unpaid 5 star reviews 48.33%
+The percent of unpaid 5 star reviews 48.33%
 ![percentunpaid5star](https://user-images.githubusercontent.com/88061345/143719041-85fbbed1-368e-4e2a-919c-0af6d88cf8db.PNG)
 
 
@@ -71,7 +71,7 @@ The perecet of unpaid 5 star reviews 48.33%
 
 There were significantly more reviews that were not part of the vine program. The percent of vine program 5 star reviews was less than the non vine program, indicating there is no bias. 
 
-Additional Analysis
+- Additional Analysis
 An additional analysis that might be beneficial would be to review the lower star reviews (1 and 2) and compare them vine vs non-vine program. This could help determine if there is a bias for giving and/or not giving lower star rating. 
 
  
